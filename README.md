@@ -1,2 +1,2 @@
-# LasyOpticDesigner
-An flexble Model for Optic Designer, And Optic analys by traditional physic method and quantum's
+# LasyOpticalDesigner
+An flexble Model for optical design, And optical analys by traditional physic method and quantum's
